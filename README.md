@@ -11,7 +11,7 @@ Here you will get the Simple DSA codes in C++
 
 ## Unit 2: (may be)
 1) Stack (Contains pull, push, display, peek) elements
-
+2) Queue (Contains enqueue, dequeue, display, peek) elements
 ---
 This is enough For now
 ---
