@@ -8,6 +8,9 @@
 ## Unit 2:
 1) Stack (Contains pull, push, display, peek) elements
 2) Queue (Contains enqueue, dequeue, display, peek) elements
+
+## Unit 3:
+1) Linked List (Contains insert, delete, display, search) elements
 ---
 This is enough For now
 ---
