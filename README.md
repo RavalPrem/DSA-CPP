@@ -1,7 +1,3 @@
-
-# DSA With C++
-Here you will get the Simple DSA codes in C++
-
 # Contents
 ## Unit 1:
 1) SparceMatrix
