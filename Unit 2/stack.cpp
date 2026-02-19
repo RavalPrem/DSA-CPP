@@ -13,7 +13,7 @@ void push(int num) {
     }
 }
 
-void pull() {
+void pop() {
     if(top < 0) {
         cout << "\nStack Undersflow \n" << endl;
     } else {
@@ -46,7 +46,7 @@ int main() {
 
     do {
         cout << "\n1) push the element" << endl;
-        cout << "2) pull the element" << endl;
+        cout << "2) pop the element" << endl;
         cout << "3) display stack" << endl;
         cout << "4) peek element" << endl;
         cout << "5) Exit From Loop" << endl;
@@ -62,7 +62,7 @@ int main() {
             }
             
             case 2: {
-                pull();
+                pop();
                 break;
             }
             case 3:{
