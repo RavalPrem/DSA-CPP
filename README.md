@@ -11,25 +11,7 @@
 
 ## Unit 3:
 1) Linked List 
-    . create_node
-    . display nodes
-    . insert at beginning
-    . insert at end
-    . insert at position
-    . delete at beginning
-    . delete at end
-    . delete at position
-
 2) Doubly Linked List
-    . create_node
-    . display nodes
-    . insert at beginning
-    . insert at end
-    . insert at position
-    . delete at beginning
-    . delete at end
-    . delete at position
-    . reverse the list
 
 ---
 This is enough For now
