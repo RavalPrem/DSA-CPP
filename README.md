@@ -10,7 +10,7 @@
 2) Queue (Contains enqueue, dequeue, display, peek) elements
 
 ## Unit 3:
-1) Linked List 
+1) Single Linked List 
 2) Doubly Linked List
 
 ---
